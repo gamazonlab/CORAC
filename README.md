@@ -1,8 +1,6 @@
 # CORAC [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gamazonlab/CORAC/blob/master/LICENSE) 
 
-## A phenome-wide scan reveals convergence of common and rare variant associations
-Dan Zhou, Yuan Zhou, Yue Xu, Ran Meng, Eric R. Gamazon.  
-<i>Genome Medicine</i> in press.
+Dan Zhou, Yuan Zhou, Yue Xu, Ran Meng, Eric R. Gamazon. A phenome-wide scan reveals convergence of common and rare variant associations.  <i>Genome Medicine</i> 15, 101 (2023). https://doi.org/10.1186/s13073-023-01253-9
 
 ## For questions:  
 Dan Zhou <zdangm@gmail.com>  
